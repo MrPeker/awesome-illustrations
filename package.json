@@ -1,0 +1,12 @@
+{
+  "name": "awesome-illustrations",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/MrPeker/awesome-illustrations.git",
+  "author": "Mehmet Ali Peker <maps6134@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "markdown-it": "^10.0.0",
+    "puppeteer": "^3.0.4"
+  }
+}
