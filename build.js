@@ -92,7 +92,7 @@ let lines = readme.split(/(\r|\n)/);
         await new Promise((resolve) => {
           setTimeout(() => {
             resolve(true);
-          }, 100);
+          }, 500);
         });
         await page.screenshot({
           type: "jpeg",
