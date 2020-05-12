@@ -105,10 +105,10 @@ let lines = readme.split(/(\r|\n)/);
           path: imagePath,
         });
 
-        output.push(
-          md.render(`<h3>${line}</h3><br/>
-<div class="mb-3">[![A screenshot of ${url}](/${imagePath})](${url})</div>`)
-        );
+        let text = md.render(line);
+        let image = `<div class="mb-3"><a href="${url}"><img src="/${imagePath} alt="A screenshot of ${url}"></a></div>`;
+
+        output.push(`<h3>${text}</h3><br/>${image}`);
         resolve(true);
       } else {
         output.push(md.render(line));
