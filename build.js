@@ -54,7 +54,7 @@ let lines = readme.split(/(\r|\n)/);
                 .btn-github:active,.btn-github.active,.open>.dropdown-toggle.btn-github{background-image:none}
                 .btn-github.disabled:hover,.btn-github[disabled]:hover,fieldset[disabled] .btn-github:hover,.btn-github.disabled:focus,.btn-github[disabled]:focus,fieldset[disabled] .btn-github:focus,.btn-github.disabled.focus,.btn-github[disabled].focus,fieldset[disabled] .btn-github.focus{background-color:#444;border-color:rgba(0,0,0,0.2)}
                 .btn-github .badge{color:#444;background-color:#fff}
-                ul img {width: 100%}
+                img.screenshot {width: 100%}
             </style>
         </head>
         <body>
@@ -106,7 +106,7 @@ let lines = readme.split(/(\r|\n)/);
         });
 
         let text = md.render(line);
-        let image = `<div class="mb-3"><a href="${url}"><img src="/${imagePath}" alt="A screenshot of ${url}"></a></div>`;
+        let image = `<div class="mb-3"><a href="${url}"><img class="screenshot" src="/${imagePath}" alt="A screenshot of ${url}"></a></div>`;
 
         output.push(`<h3>${text}</h3><br/>${image}`);
         resolve(true);
