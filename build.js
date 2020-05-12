@@ -106,7 +106,7 @@ let lines = readme.split(/(\r|\n)/);
         });
 
         let text = md.render(line);
-        let image = `<div class="mb-3"><a href="${url}"><img class="screenshot" src="/${imagePath}" alt="A screenshot of ${url}"></a></div>`;
+        let image = `<div class="mb-5"><a href="${url}"><img class="screenshot" src="/${imagePath}" alt="A screenshot of ${url}"></a></div>`;
 
         output.push(`<h3>${text}</h3><br/>${image}`);
         resolve(true);
