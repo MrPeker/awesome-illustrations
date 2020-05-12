@@ -106,8 +106,8 @@ let lines = readme.split(/(\r|\n)/);
         });
 
         output.push(
-          md.render(`${line}<br/>
-[![A screenshot of ${url}](/${imagePath})](${url})`)
+          md.render(`<h3>${line}</h3><br/>
+<div class="mb-3">[![A screenshot of ${url}](/${imagePath})](${url})</div>`)
         );
         resolve(true);
       } else {
