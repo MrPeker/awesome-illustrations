@@ -2,7 +2,7 @@ const fs = require("fs");
 const md = require("markdown-it")({
   html: true,
   typographer: true,
-});
+}).use(require("markdown-it-anchor"), {});
 const puppeteer = require("puppeteer");
 
 const readme = fs.readFileSync("./readme.md", "utf-8");
