@@ -60,9 +60,13 @@ let lines = readme.split(/(\r|\n)/);
         <body>
         <div class="container">
         <img class="w-100 mb-3" src="https://repository-images.githubusercontent.com/263197559/fdfcac00-940a-11ea-9c15-839e1e475b1a" alt="Awesome Illustrations Cover"/>
-        <a class="btn btn-block btn-social btn-github text-white mb-3" target="_blank">
-            <span class="fab fa-github mr-1"></span> Visit MrPeker/awesome-illustrations on GitHub
-        </a>
+        <div class="d-flex">
+            <a href="https://github.com/MrPeker/awesome-illustrations" class="btn btn-block btn-social btn-github mb-3">
+                <span class="fab fa-github mr-1"></span> Visit MrPeker/awesome-illustrations on GitHub
+            </a>
+            <div style="width: 10px"></div>
+            <a class="github-button" href="https://github.com/MrPeker/awesome-illustrations" data-color-scheme="no-preference: dark; light: dark; dark: dark;" data-size="large" data-show-count="true" aria-label="Star MrPeker/awesome-illustrations on GitHub">Star</a>
+        </div>
       `,
   ];
 
@@ -70,7 +74,8 @@ let lines = readme.split(/(\r|\n)/);
     setTimeout(() => {
       if (index === lines.length - 1) {
         browser.close();
-        output.push(`</div></body></html>`);
+        output.push(`</div>
+        <script async defer src="https://buttons.github.io/buttons.js"></script></body></html>`);
         output = output.join("");
         console.log("Finished");
         fs.writeFileSync("index.html", output);
