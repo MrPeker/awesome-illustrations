@@ -11,6 +11,7 @@ let lines = readme.split(/(\r|\n)/);
 (async () => {
   const browser = await puppeteer.launch({
     headless: true,
+    args: ["--no-sandbox"],
   });
 
   let page = await browser.newPage();
