@@ -1,6 +1,6 @@
 # Awesome Illustrations [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-> A curated list of awesome illustrations & tools
+> A curated list of awesome illustrations & tools ✨
 
 ## Contents
 
