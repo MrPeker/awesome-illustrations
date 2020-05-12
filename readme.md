@@ -20,7 +20,6 @@ Completely free illustration sets for your next amazing thing
 - [Humaaans](https://www.humaaans.com) - Mix-&-match illustrations of people with a design library
 - [illlustrations](https://illlustrations.co) - 100 awesome open-source illustrations also including COVID & WFH for your next project
 - [Illustration Gallery](https://www.manypixels.co/gallery) - A huge collection of royalty-free illustrations to power up your projects
-- [Ouch! Illustrations](https://icons8.com/ouch) - Free stylish illustrations for better UX
 - [Smash Illustrations](https://usesmash.com) - An list of illustrations over 250+ items
 - [Stubborn Generator](https://stubborn.fun) - An awesome character generator for your next illustrations
 - [unDraw Illustrations](https://undraw.co/illustrations) - MIT licensed constantly updated collection of beautiful svg illustrations
@@ -36,6 +35,7 @@ Illustration sets which have free and premium versions.
 - [Pandemic Illustrations](https://deliciousdesign.store/pandemic.html) - Pandemic preparedness illustrations for your pandemic related content
 - [Self Space Illustrations](https://selfspace.design) - 20 pretty illustrations for your next product
 - [Shape.so](https://shape.so) - 4300+ icons, illustrations exportable to SVG, React & Lottie
+- [Ouch! Illustrations](https://icons8.com/ouch) - Stylish illustrations for better UX
 
 ## Paid Illustrations
 
