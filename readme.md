@@ -4,6 +4,8 @@
 
 Website: [https://awesome-illustrations.now.sh](https://awesome-illustrations.now.sh)
 
+[![Awesome Illustrations - A curated list of awesome illustrations & tools ✨ | Product Hunt Embed](https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=199840&theme=light)](https://www.producthunt.com/posts/awesome-illustrations-2?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-awesome-illustrations-2)
+
 ## Contents
 
 - [Free Illustrations](#free-illustrations)
