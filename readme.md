@@ -27,6 +27,9 @@ Completely free illustration sets for your next amazing thing
 - [Smash Illustrations](https://usesmash.com) - An list of illustrations over 250+ items
 - [Stubborn Generator](https://stubborn.fun) - An awesome character generator for your next illustrations
 - [unDraw Illustrations](https://undraw.co/illustrations) - MIT licensed constantly updated collection of beautiful svg illustrations
+- [Designs.ai Graphicmaker](https://designs.ai/graphicmaker) - Browse to find SVG images suitable for your design needs. Change the colors easily to show your brand identity.
+
+
 
 ## Freemium Illustrations
 
