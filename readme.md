@@ -54,6 +54,7 @@ Awesome paid illustrations for your creativity
 - [Juicy Illustrations](https://craftwork.design/juicy-illustrations) - A set of illustrations with customizable 80 items
 - [Struct Illustrations](https://struct.rocks) - An illustrations set of 40 stories and incidents from the IT world.
 - [Stubborn Illustrations](https://stubborn.rocks) - An illustrations set of 30 little exciting stories from the startup world
+- [Storytale](https://storytale.io/) Hundreds of illustrations for web and app projects
 
 ## Miscellaneous
 
