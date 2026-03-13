@@ -42,7 +42,11 @@ Illustration sets which have free and premium versions.
 - [Pandemic Illustrations](https://deliciousdesign.store/pandemic.html) - Pandemic preparedness illustrations for your pandemic related content
 - [Self Space Illustrations](https://selfspace.design) - 20 pretty illustrations for your next product
 - [Shape.so](https://shape.so) - 4300+ icons, illustrations exportable to SVG, React & Lottie
+- [Fontz](https://fontz.design) - Free and premium 3D fonts with Blender source files
+- [Handz](https://handz.design) - Free library of 320+ diverse 3D hand illustrations with Blender source files
+- [Mockupz](https://mockupz.design) - Free 3D mockup scenes for showcasing your design work
 - [Ouch! Illustrations](https://icons8.com/ouch) - Stylish illustrations for better UX
+- [Robotz](https://threedee.design/cartoon-robot) - Free modular 3D cartoon robot with customizable heads, bodies and hands
 
 ## Paid Illustrations
 
@@ -54,6 +58,11 @@ Awesome paid illustrations for your creativity
 - [Juicy Illustrations](https://craftwork.design/juicy-illustrations) - A set of illustrations with customizable 80 items
 - [Struct Illustrations](https://struct.rocks) - An illustrations set of 40 stories and incidents from the IT world.
 - [Stubborn Illustrations](https://stubborn.rocks) - An illustrations set of 30 little exciting stories from the startup world
+- [Characterz](https://characterz.design) - 9,000+ customizable diverse 3D character illustrations with Blender source files
+- [Chibiz](https://threedee.design/products/3d-models/chibi-3d-model/) - Modular chibi 3D characters with mix-and-match outfits, hair, and accessories
+- [Emojiz](https://emojiz.design) - 77+ animated 3D emoji illustrations with Blender source files
+- [Iconz](https://iconz.design) - 460+ 3D icons in multiple angles and materials
+- [Illustrationz](https://illustrationz.design) - 100+ 3D character illustration packs with 167M+ combinations
 - [Storytale](https://storytale.io/) - Hundreds of illustrations for web and app projects
 
 ## Miscellaneous
