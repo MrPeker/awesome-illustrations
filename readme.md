@@ -45,7 +45,7 @@ Illustration sets which have free and premium versions.
 - [Fontz](https://fontz.design) - Free and premium 3D fonts with Blender source files
 - [Handz](https://handz.design) - Free library of 320+ diverse 3D hand illustrations with Blender source files
 - [Mockupz](https://mockupz.design) - Free 3D mockup scenes for showcasing your design work
-- [Ouch! Illustrations](https://icons8.com/ouch) - Stylish illustrations for better UX
+- [Ouch! Illustrations](https://icons8.com/illustrations) - 100,000+ illustrations in over 330 styles — flat, 3D, hand-drawn, and animated. SVG and PNG
 - [Robotz](https://threedee.design/cartoon-robot) - Free modular 3D cartoon robot with customizable heads, bodies and hands
 
 ## Paid Illustrations
