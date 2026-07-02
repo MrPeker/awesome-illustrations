@@ -29,6 +29,7 @@ Completely free illustration sets for your next amazing thing
 - [unDraw Illustrations](https://undraw.co/illustrations) - MIT licensed constantly updated collection of beautiful svg illustrations
 - [Designs.ai Graphicmaker](https://designs.ai/graphicmaker) - Browse to find SVG images suitable for your design needs. Change the colors easily to show your brand identity.
 - [Story Set](https://storyset.com/) - Edit and animate customizable illustrations to enhance your projects totally free.
+- [SketchValley](https://sketchvalley.com/) – 1,000+ free SVG & PNG illustrations — flat, 3D, hand-drawn & minimal styles. No attribution required, instant download.
 - [Flowbite Illustrations](https://flowbite.com/illustrations/) - Open-source collection of 3D styles SVG illustrations available in dark and light mode
 
 ## Freemium Illustrations
