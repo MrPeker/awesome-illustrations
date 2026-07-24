@@ -30,6 +30,7 @@ Completely free illustration sets for your next amazing thing
 - [Designs.ai Graphicmaker](https://designs.ai/graphicmaker) - Browse to find SVG images suitable for your design needs. Change the colors easily to show your brand identity.
 - [Story Set](https://storyset.com/) - Edit and animate customizable illustrations to enhance your projects totally free.
 - [Flowbite Illustrations](https://flowbite.com/illustrations/) - Open-source collection of 3D styles SVG illustrations available in dark and light mode
+- [Visual Hub](https://visual-hub.net) - Free AI-generated illustrations for business documents, blogs, IT and education, in 12 styles. No attribution required, commercial use allowed
 
 ## Freemium Illustrations
 
