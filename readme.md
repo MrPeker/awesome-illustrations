@@ -44,6 +44,7 @@ Illustration sets which have free and premium versions.
 - [Shape.so](https://shape.so) - 4300+ icons, illustrations exportable to SVG, React & Lottie
 - [Fontz](https://fontz.design) - Free and premium 3D fonts with Blender source files
 - [Handz](https://handz.design) - Free library of 320+ diverse 3D hand illustrations with Blender source files
+- [Illos](https://illos.dev) - Animated SVG illustrations for product sites, in three themes, with 50 free
 - [Mockupz](https://mockupz.design) - Free 3D mockup scenes for showcasing your design work
 - [Ouch! Illustrations](https://icons8.com/ouch) - Stylish illustrations for better UX
 - [Robotz](https://threedee.design/cartoon-robot) - Free modular 3D cartoon robot with customizable heads, bodies and hands
