@@ -19,17 +19,14 @@ Website: [https://awesome-illustrations.now.sh](https://awesome-illustrations.no
 
 Completely free illustration sets for your next amazing thing
 
-- [404 Illustrations](https://error404.fun) - Royalty free catchy illustrations for perfect 404 pages
 - [Black Illustrations](https://blackillustrations.com) - Beautiful illustrations of black people for your next project
 - [Humaaans](https://www.humaaans.com) - Mix-&-match illustrations of people with a design library
-- [illlustrations](https://illlustrations.co) - 100 awesome open-source illustrations also including COVID & WFH for your next project
 - [Illustration Gallery](https://www.manypixels.co/gallery) - A huge collection of royalty-free illustrations to power up your projects
-- [Smash Illustrations](https://usesmash.com) - An list of illustrations over 250+ items
-- [Stubborn Generator](https://stubborn.fun) - An awesome character generator for your next illustrations
 - [unDraw Illustrations](https://undraw.co/illustrations) - MIT licensed constantly updated collection of beautiful svg illustrations
 - [Designs.ai Graphicmaker](https://designs.ai/graphicmaker) - Browse to find SVG images suitable for your design needs. Change the colors easily to show your brand identity.
 - [Story Set](https://storyset.com/) - Edit and animate customizable illustrations to enhance your projects totally free.
 - [Flowbite Illustrations](https://flowbite.com/illustrations/) - Open-source collection of 3D styles SVG illustrations available in dark and light mode
+- [svgapp Mascot Library](https://svgapp.ai/library/) - Free animated SVG mascot characters in many poses, free for commercial use without attribution
 
 ## Freemium Illustrations
 
@@ -57,7 +54,6 @@ Awesome paid illustrations for your creativity
 - [Handsome Illustrations](https://craftwork.design/handsome-illustrations) - Customizable 80 awesome illustrations and 20 backgrounds
 - [Juicy Illustrations](https://craftwork.design/juicy-illustrations) - A set of illustrations with customizable 80 items
 - [Struct Illustrations](https://struct.rocks) - An illustrations set of 40 stories and incidents from the IT world.
-- [Stubborn Illustrations](https://stubborn.rocks) - An illustrations set of 30 little exciting stories from the startup world
 - [Characterz](https://characterz.design) - 9,000+ customizable diverse 3D character illustrations with Blender source files
 - [Chibiz](https://threedee.design/products/3d-models/chibi-3d-model/) - Modular chibi 3D characters with mix-and-match outfits, hair, and accessories
 - [Emojiz](https://emojiz.design) - 77+ animated 3D emoji illustrations with Blender source files
