@@ -30,6 +30,7 @@ Completely free illustration sets for your next amazing thing
 - [Designs.ai Graphicmaker](https://designs.ai/graphicmaker) - Browse to find SVG images suitable for your design needs. Change the colors easily to show your brand identity.
 - [Story Set](https://storyset.com/) - Edit and animate customizable illustrations to enhance your projects totally free.
 - [Flowbite Illustrations](https://flowbite.com/illustrations/) - Open-source collection of 3D styles SVG illustrations available in dark and light mode
+- [Bird Illustrations](https://birdillustrations.com) - Free transparent PNG & WebP clipart covering all 11,011 living bird species (CC BY 4.0)
 
 ## Freemium Illustrations
 
